@@ -15,5 +15,6 @@ Tech stack
 
 Run the app
 -----------
+Install dependencies with `npm install`.
 
-Run `yarn dev` to start the app.
+Run `npm run dev` to start the app.
