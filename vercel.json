@@ -1,13 +1,13 @@
 {
   "build": {
     "env": {
-      "DOMAIN": "my-website.com",
+      "DOMAIN": "https://health-reveal-coding-exercise.vercel.app",
       "AUTH0_DOMAIN": "dev-qqf7n99l.us.auth0.com",
       "AUTH0_AUDIENCE": "https://hasura.io/learn.",
       "AUTH0_CLIENT_ID": "3XHNsOIAnic7Hl6Z1ybAWlDa7S6BHiDa",
       "AUTH0_CLIENT_SECRET": "823ALItvKGrvY8v6Ax-r5hUEhldtl8BedAVUEUF8bDQHzJB6_femy5aAi-z6_bZq",
-      "REDIRECT_URI": "https://my-website.com/api/callback",
-      "POST_LOGOUT_REDIRECT_URI": "https://my-website.com/",
+      "REDIRECT_URI": "https://health-reveal-coding-exercise.vercel.app/api/callback",
+      "POST_LOGOUT_REDIRECT_URI": "https://health-reveal-coding-exercise.vercel.app/",
       "SESSION_COOKIE_SECRET": "anyrandomstringofatleastthirtytwocharactersokayiwillkeeptypinguntiltherearedefinitelythirtytwocharacters"
     }
   }
